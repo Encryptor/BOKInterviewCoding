@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Interview Application</string>
+    <string name="string_to_validate">String to Validate</string>
+    <string name="validate">Validate</string>
+</resources>
